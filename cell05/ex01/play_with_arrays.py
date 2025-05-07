@@ -5,5 +5,5 @@ new = []
 
 for i in original:
     new.append(i+2)
-print(original)
-print(new)
+print("Original array:",original)
+print("New array: ",new)
